@@ -1,9 +1,9 @@
 {
-  "name": "⋆ 𝘼𝙮𝙞𝙞𝙣-𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ⋆",
-  "description": "[Ayiin-Userbot] Userbot Hanya Untuk Bersenang - Senang",
-  "logo": "https://telegra.ph/file/c6a0aef41355af5a018c6.jpg",
-  "keywords": ["telegram", "userbot", "Ayiin-Userbot", "modular", "python"],
-  "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
+  "name": "⋆ Bee-Userbot ⋆",
+  "description": "[Bee-Userbot] Userbot Hanya Untuk Bersenang - Senang",
+  "logo": "https://telegra.ph/file/c3f4f8a443333842dd1f3.jpg",
+  "keywords": ["telegram", "userbot", "Bee-Userbot", "modular", "python"],
+  "repository": "https://github.com/BeeDomp/Bee-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
