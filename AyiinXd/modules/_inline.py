@@ -41,7 +41,7 @@ async def inline_handler(event):
     user = await Ayiin.get_me()
     uid = user.id
     if event.query.user_id == user.id and query.startswith(
-            "@AyiinChats"):
+            "@cari_kawanindonesia"):
         buttons = paginate_help(0, CMD_HELP, "helpme")
         result = await event.builder.photo(
             file=logoyins,
