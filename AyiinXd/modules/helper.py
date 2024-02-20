@@ -15,7 +15,7 @@ async def usit(event):
         f"""
 **Hai {me.first_name} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `{cmd}help` Atau Bisa Minta Bantuan Ke:
 ⍟ **Group Support :** [Bee Support](t.me/cari_kawanindonesia)
-⍟ **Channel Ayiin :** [Bee Support](t.me/BeeXDomp)
+⍟ **Channel Bee :** [Bee Support](t.me/BeeXDomp)
 ⍟ **Owner Repo :** [Bee](t.me/BeeIsHere)
 ⍟ **Repo :** [Bee-Userbot](https://github.com/BeeDomp/Bee-Userbot)
 """
