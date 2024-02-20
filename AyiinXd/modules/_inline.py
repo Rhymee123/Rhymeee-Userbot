@@ -64,7 +64,7 @@ async def inline_handler(event):
                 [
                     custom.Button.url(
                         "ɢʀᴏᴜᴘ",
-                        "https://t.me/AyiinChats"),
+                        "https://t.me/cari_kawanindonesia"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
                         "https://github.com/BeeDomp/Bee-Userbot"),
