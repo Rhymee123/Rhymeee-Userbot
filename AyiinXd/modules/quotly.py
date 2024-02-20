@@ -179,7 +179,7 @@ async def quotly(event):
     match = event.pattern_match.group(1).strip()
     if not event.is_reply:
         return await eod(event, "**Mohon Balas Ke Pesan Penggunanya**")
-    msg = await eor(event, '**Memproses...**')
+    msg = await eor(event, '**Sabar Memeg...**')
     reply = await event.get_reply_message()
     replied_to, reply_ = None, None
     if match:
