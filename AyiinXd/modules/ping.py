@@ -54,7 +54,7 @@ async def _(ping):
     Ayiin = await edit_or_reply(ping, "**ᴡᴀɪᴛ**")
     await Ayiin.edit("**ʜᴀɪ**")
     await Ayiin.edit("**ᴋᴀᴍᴜ**")
-    await Ayiin.edit("**😘**")
+    await Ayiin.edit("**😄**")
     await Ayiin.edit("**sᴛᴀʀᴛɪɴɢ...**")
     end = datetime.now()
     duration = (end - start).microseconds / 2000
