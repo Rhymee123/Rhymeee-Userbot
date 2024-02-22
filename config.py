@@ -144,10 +144,10 @@ class Config(object):
     # untuk perintah teks costum .alive
     ALIVE_TEKS_CUSTOM = getenv(
         "ALIVE_TEKS_CUSTOM",
-        "Hey, Saya pengguna Bee-Userbot")
+        "Hey, Saya adalah Oreo Is Here")
 
     # Default .alive name
-    ALIVE_NAME = getenv("ALIVE_NAME", "BeeDomp")
+    ALIVE_NAME = getenv("ALIVE_NAME", "Oreo")
 
     # Custom Emoji Alive
     ALIVE_EMOJI = getenv("ALIVE_EMOJI", "🔱")
@@ -176,10 +176,10 @@ class Config(object):
 
     # Default .alive logo
     ALIVE_LOGO = (getenv("ALIVE_LOGO")
-                or "https://telegra.ph/file/c3f4f8a443333842dd1f3.jpg")
+                or "https://telegra.ph/file/daeea081e2b5daa2db78e.jpg")
 
     INLINE_PIC = (getenv("INLINE_PIC")
-                or "https://telegra.ph/file/6d2b46eb250077156a966.jpg")
+                or "https://telegra.ph/file/fd770e46a8c38a95b0493.jpg")
 
     # Picture For VCPLUGIN
     PLAY_PIC = (getenv("PLAY_PIC")
