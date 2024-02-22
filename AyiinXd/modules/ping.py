@@ -63,7 +63,7 @@ async def _(ping):
     sleep(4)
     await Ayiin.edit(
         f"""
-**ャ ʌ̸sɪsᴛʌ̸ɴᴛ ʙᴇᴇ ャ**
+**ャ ʌ̸sɪsᴛʌ̸ɴᴛ ᴏʀᴇᴏ ャ**
 
 ➻ 🏓 **ᴘɪɴɢ :** `{duration}ms`
 ➻ ⏳ **ᴜᴘᴛɪᴍᴇ :** `{uptime}`
@@ -117,10 +117,10 @@ async def _(pong):
     duration = (end - start).microseconds / 1000
     user = await pong.client.get_me()
     await kopong.edit(
-        f"**✲ 𝙺𝙾𝙽𝚃𝙾𝙻 𝙼𝙴𝙻𝙴𝙳𝚄𝙶** "
-        f"\n ⫸ 𝙺𝙾𝙽𝚃𝙾𝙻 `%sms` \n"
+        f"**✲ ʙᴀᴘᴀᴋ ᴋᴀᴜ** "
+        f"\n ⫸ ᴘᴇʟᴇʀ `%sms` \n"
         f"**✲ 𝙱𝙸𝙹𝙸 𝙿𝙴𝙻𝙴𝚁** "
-        f"\n ⫸ 𝙺𝙰𝙼𝙿𝙰𝙽𝙶『[{user.first_name}](tg://user?id={user.id})』 \n" % (duration)
+        f"\n ⫸ 𝐁𝐚𝐜𝐨𝐝 𝐛𝐲『[{user.first_name}](tg://user?id={user.id})』 \n" % (duration)
     )
 
 
