@@ -144,10 +144,10 @@ class Config(object):
     # untuk perintah teks costum .alive
     ALIVE_TEKS_CUSTOM = getenv(
         "ALIVE_TEKS_CUSTOM",
-        "Hey, Saya adalah Oreo Is Here")
+        "Hey, Saya adalah Hann Is Here")
 
     # Default .alive name
-    ALIVE_NAME = getenv("ALIVE_NAME", "Oreo")
+    ALIVE_NAME = getenv("ALIVE_NAME", "Hann")
 
     # Custom Emoji Alive
     ALIVE_EMOJI = getenv("ALIVE_EMOJI", "🔱")
