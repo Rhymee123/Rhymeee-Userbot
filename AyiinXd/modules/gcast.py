@@ -6,9 +6,8 @@
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 #
 # Ported by Koala @manusiarakitann
-# Recode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @N0TH4VEUSN
+# FROM Dok-Userbot <https://github.com/troxydrake/Dok-Userbot>
 
 import asyncio
 
