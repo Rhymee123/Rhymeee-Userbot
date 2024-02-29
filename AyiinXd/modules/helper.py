@@ -14,10 +14,10 @@ async def usit(event):
         event,
         f"""
 **Hai {me.first_name} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `{cmd}help` Atau Bisa Minta Bantuan Ke:
-⍟ **Group Support :** [Bee Support](t.me/cari_kawanindonesia)
-⍟ **Channel Bee :** [Bee Support](t.me/BeeXDomp)
-⍟ **Owner Repo :** [Bee](t.me/BeeIsHere)
-⍟ **Repo :** [Bee-Userbot](https://github.com/BeeDomp/Bee-Userbot)
+⍟ **Group Support :** [Dokter Support](t.me/cari_kawanindonesia)
+⍟ **Channel Bee :** [Dokter Support](t.me/ZennXbumb)
+⍟ **Owner Repo :** [Dok](t.me/N0TH4VEUSN)
+⍟ **Repo :** [Dok-Userbot](https://github.com/troxydrake/Dok-Userbot)
 """
     )
 
@@ -49,7 +49,7 @@ CMD_HELP.update(
         \n\n  »  **Perintah :** `{cmd}repo`\
         \n  »  **Kegunaan : **Melihat Repository Ayiin-Userbot.\
         \n\n  »  **Perintah :** `{cmd}string`\
-        \n  »  **Kegunaan : **Link untuk mengambil String Bee-Userbot.\
+        \n  »  **Kegunaan : **Link untuk mengambil String Dok-Userbot.\
     "
     }
 )
