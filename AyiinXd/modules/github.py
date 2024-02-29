@@ -1,7 +1,6 @@
 # Copyright (C) 2021 Catuserbot <https://github.com/sandy1709/catuserbot>
-# Ported by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Ported by @N0TH4VEUSN
+# FROM Dok-Userbot <https://github.com/troxydrake/Dok-Userbot>
 
 import os
 
