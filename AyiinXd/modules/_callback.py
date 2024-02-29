@@ -16,10 +16,10 @@ dugmeler = CMD_HELP
 logo = var.ALIVE_LOGO
 logoyins = random.choice(
         [
-            "https://telegra.ph/file/9f8e73d387f25b7f27ce5.jpg",
-            "https://telegra.ph/file/c935d34b48e45fba22b03.jpg",
-            "https://telegra.ph/file/392f69c8717c91b1e8a3b.jpg",
-            "https://telegra.ph/file/4c5b756dd13d7a88c866b.jpg",
+            "https://telegra.ph/file/3503f31a85ef98b2d5ee0.jpg",
+            "https://telegra.ph/file/de80983fa88d12c63090e.jpg",
+            "https://telegra.ph/file/d4bc521f153b64290bf9e.jpg",
+            "https://telegra.ph/file/219f99d8edb8c93b5b1ac.jpg",
         ]
 )
 main_help_button = [
