@@ -46,7 +46,7 @@ async def inline_handler(event):
         result = await event.builder.photo(
             file=logoyins,
             link_preview=False,
-            text=f"**✨ ʙᴇᴇ-ᴜsᴇʀʙᴏᴛ ɪɴʟɪɴᴇ ᴍᴇɴᴜ ✨**\n\n⍟ **ᴅᴇᴘʟᴏʏ :** •[{HOSTED_ON}]•\n⍟ **ᴏᴡɴᴇʀ :** {user.first_name}\n⍟ **ᴊᴜᴍʟᴀʜ :** {len(CMD_HELP)} **Modules**",
+            text=f"**✨ ᴅᴏᴋᴛᴇꝛ-ᴜsᴇʀʙᴏᴛ ɪɴʟɪɴᴇ ᴍᴇɴᴜ ✨**\n\n⍟ **ᴅᴇᴘʟᴏʏ :** •[{HOSTED_ON}]•\n⍟ **ᴏᴡɴᴇʀ :** {user.first_name}\n⍟ **ᴊᴜᴍʟᴀʜ :** {len(CMD_HELP)} **Modules**",
             buttons=main_help_button,
         )
     elif query.startswith("repo"):
@@ -59,7 +59,7 @@ async def inline_handler(event):
                 0,
                 "image/jpeg",
                 []),
-            text="**Bee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [BeeDomp](https://t.me/BeeIsHeree)\n✧ **sᴜᴘᴘᴏʀᴛ :** @cari_kawanindonesia\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Bee-Userbot](https://github.com/BeeDomp/Bee-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+            text="**ᴅᴏᴋᴛᴇꝛ-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [N0TH4VEUSN](https://t.me/ZennXbumb)\n✧ **sᴜᴘᴘᴏʀᴛ :** @cari_kawanindonesia\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Dok-Userbot](https://github.com/troxydrake/Dok-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
             buttons=[
                 [
                     custom.Button.url(
@@ -67,7 +67,7 @@ async def inline_handler(event):
                         "https://t.me/cari_kawanindonesia"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
-                        "https://github.com/BeeDomp/Bee-Userbot"),
+                        "https://github.com/troxydrake/Dok-Userbot"),
                 ],
             ],
             link_preview=False,
@@ -106,15 +106,15 @@ async def inline_handler(event):
         )
     else:
         result = builder.article(
-            title="✨ ʙᴇᴇ-ᴜsᴇʀʙᴏᴛ ✨",
-            description="Bee - Userbot | Telethon",
-            url="https://t.me/BeeXDomp",
+            title="✨ ᴅᴏᴋᴛᴇꝛ-ᴜsᴇʀʙᴏᴛ ✨",
+            description="Dok - Userbot | Telethon",
+            url="https://t.me/ZennXbumb",
             thumb=InputWebDocument(
                 var.INLINE_PIC,
                 0,
                 "image/jpeg",
                 []),
-            text=f"**Bee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {var.BOT_USERNAME}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @BeeXDomp\n➖➖➖➖➖➖➖➖➖➖",
+            text=f"**ᴅᴏᴋᴛᴇꝛ-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {var.BOT_USERNAME}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @ZennXbumb\n➖➖➖➖➖➖➖➖➖➖",
             buttons=[
                 [
                     custom.Button.url(
@@ -122,7 +122,7 @@ async def inline_handler(event):
                         "https://t.me/cari_kawanindonesia"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
-                        "https://github.com/BeeDomp/Bee-Userbot"),
+                        "https://github.com/troxydrake/Dok-Userbot"),
                 ],
             ],
             link_preview=False,
