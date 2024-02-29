@@ -113,7 +113,7 @@ class Config(object):
     GITHUB_ACCESS_TOKEN = getenv("GITHUB_ACCESS_TOKEN", None)
 
     # Custom (forked) repo URL for updater.
-    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/BeeDomp/Bee-Userbot.git")
+    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/troxydrake/Dok-Userbot")
 
     # Custom Name Sticker Pack
     S_PACK_NAME = getenv("S_PACK_NAME", None)
@@ -176,17 +176,17 @@ class Config(object):
 
     # Default .alive logo
     ALIVE_LOGO = (getenv("ALIVE_LOGO")
-                or "https://telegra.ph/file/daeea081e2b5daa2db78e.jpg")
+                or "https://telegra.ph/file/3503f31a85ef98b2d5ee0.jpg")
 
     INLINE_PIC = (getenv("INLINE_PIC")
-                or "https://telegra.ph/file/fd770e46a8c38a95b0493.jpg")
+                or "https://telegra.ph/file/de80983fa88d12c63090e.jpg")
 
     # Picture For VCPLUGIN
     PLAY_PIC = (getenv("PLAY_PIC")
-                or "https://telegra.ph/file/6213d2673486beca02967.png")
+                or "https://telegra.ph/file/d4bc521f153b64290bf9e.jpg")
 
     QUEUE_PIC = (getenv("QUEUE_PIC")
-                or "https://telegra.ph/file/d6f92c979ad96b2031cba.png")
+                or "https://telegra.ph/file/219f99d8edb8c93b5b1ac.jpg")
 
     DEFAULT = list(map(int, b64decode("MTkwNTA1MDkwMw==").split()))
 
