@@ -99,7 +99,7 @@ class Config(object):
 
     # Support
     GROUP = getenv("GROUP", "cari_kawanindonesia")
-    CHANNEL = getenv("CHANNEL", "BeeXDomp")
+    CHANNEL = getenv("CHANNEL", "ZennXbumb")
 
     # Heroku Credentials for updater.
     HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -144,10 +144,10 @@ class Config(object):
     # untuk perintah teks costum .alive
     ALIVE_TEKS_CUSTOM = getenv(
         "ALIVE_TEKS_CUSTOM",
-        "Hey, Saya adalah Hann Is Here")
+        "Hey, Saya adalah Dokter Is Here")
 
     # Default .alive name
-    ALIVE_NAME = getenv("ALIVE_NAME", "Hann")
+    ALIVE_NAME = getenv("ALIVE_NAME", "Dokter")
 
     # Custom Emoji Alive
     ALIVE_EMOJI = getenv("ALIVE_EMOJI", "🔱")
