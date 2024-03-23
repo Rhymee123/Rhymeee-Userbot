@@ -1,6 +1,6 @@
 # Copyright (C) 2021 Catuserbot <https://github.com/sandy1709/catuserbot>
 # Ported by @Rhymee4Peacee
-# FROM Rhymeee-Userbot <https://github.com/troxydrake/Rhymeee-Userbot>
+# FROM Rhymeee-Userbot <https://github.com/Rhymee123/Rhymeee-Userbot>
 
 import os
 
