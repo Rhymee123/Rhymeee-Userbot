@@ -98,7 +98,7 @@ class Config(object):
     SUDO_HANDLER = getenv("SUDO_HANDLER", r"$")
 
     # Support
-    GROUP = getenv("GROUP", "cari_kawanindonesia")
+    GROUP = getenv("GROUP", "ctg_id1")
     CHANNEL = getenv("CHANNEL", "ZennXbumb")
 
     # Heroku Credentials for updater.
@@ -144,7 +144,7 @@ class Config(object):
     # untuk perintah teks costum .alive
     ALIVE_TEKS_CUSTOM = getenv(
         "ALIVE_TEKS_CUSTOM",
-        "Hey, Saya adalah Dokter Is Here")
+        "Hey, Saya adalah Rhymeee Is Here")
 
     # Default .alive name
     ALIVE_NAME = getenv("ALIVE_NAME", "Dokter")
