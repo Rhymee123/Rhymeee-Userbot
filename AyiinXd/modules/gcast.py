@@ -7,7 +7,7 @@
 #
 # Ported by Koala @manusiarakitann
 # Recode by @Rhymee4Peacee
-# FROM Rhymeee-Userbot <https://github.com/troxydrake/Rhymeee-Userbot>
+# FROM Rhymeee-Userbot <https://github.com/Rhymee123/Rhymeee-Userbot>
 
 import asyncio
 
