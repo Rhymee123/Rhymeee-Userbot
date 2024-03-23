@@ -1,6 +1,6 @@
 # Copyright (C) 2020 Catuserbot <https://github.com/sandy1709/catuserbot>
-# Ported by @N0TH4VEUSN
-# FROM Dok-Userbot <https://github.com/troxydrake/Dok-Userbot>
+# Ported by @Rhymee4Peacee
+# FROM Rhymee-Userbot <https://github.com/troxydrake/Dok-Userbot>
 
 import asyncio
 from datetime import datetime
