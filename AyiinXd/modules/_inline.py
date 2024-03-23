@@ -41,25 +41,25 @@ async def inline_handler(event):
     user = await Ayiin.get_me()
     uid = user.id
     if event.query.user_id == user.id and query.startswith(
-            "@cari_kawanindonesia"):
+            "@ctg_id1"):
         buttons = paginate_help(0, CMD_HELP, "helpme")
         result = await event.builder.photo(
             file=logoyins,
             link_preview=False,
-            text=f"**✨ ᴅᴏᴋᴛᴇꝛ-ᴜsᴇʀʙᴏᴛ ɪɴʟɪɴᴇ ᴍᴇɴᴜ ✨**\n\n⍟ **ᴅᴇᴘʟᴏʏ :** •[{HOSTED_ON}]•\n⍟ **ᴏᴡɴᴇʀ :** {user.first_name}\n⍟ **ᴊᴜᴍʟᴀʜ :** {len(CMD_HELP)} **Modules**",
+            text=f"**✨ Rhymeee-ᴜsᴇʀʙᴏᴛ ɪɴʟɪɴᴇ ᴍᴇɴᴜ ✨**\n\n⍟ **ᴅᴇᴘʟᴏʏ :** •[{HOSTED_ON}]•\n⍟ **ᴏᴡɴᴇʀ :** {user.first_name}\n⍟ **ᴊᴜᴍʟᴀʜ :** {len(CMD_HELP)} **Modules**",
             buttons=main_help_button,
         )
     elif query.startswith("repo"):
         result = builder.article(
             title="Repository",
-            description="Repository Bee - Userbot",
-            url="https://t.me/cari_kawanindonesia",
+            description="Repository Rhymeee - Userbot",
+            url="https://t.me/ctg_id1",
             thumb=InputWebDocument(
                 var.INLINE_PIC,
                 0,
                 "image/jpeg",
                 []),
-            text="**ᴅᴏᴋᴛᴇꝛ-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [N0TH4VEUSN](https://t.me/ZennXbumb)\n✧ **sᴜᴘᴘᴏʀᴛ :** @cari_kawanindonesia\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Dok-Userbot](https://github.com/troxydrake/Dok-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+            text="**Rhymeee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [@Rhymee4Peacee](https://t.me/ZennXbumb)\n✧ **sᴜᴘᴘᴏʀᴛ :** @ctg_id1\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Rhymeee-Userbot](https://github.com/troxydrake/Rhymeee-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
             buttons=[
                 [
                     custom.Button.url(
@@ -67,7 +67,7 @@ async def inline_handler(event):
                         "https://https://t.me/ctg_id1"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
-                        "https://github.com/troxydrake/Dok-Userbot"),
+                        "https://github.com/troxydrake/Rhymeee-Userbot"),
                 ],
             ],
             link_preview=False,
@@ -114,7 +114,7 @@ async def inline_handler(event):
                 0,
                 "image/jpeg",
                 []),
-            text=f"**ᴅᴏᴋᴛᴇꝛ-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {var.BOT_USERNAME}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @ZennXbumb\n➖➖➖➖➖➖➖➖➖➖",
+            text=f"**Rhymeee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {var.BOT_USERNAME}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @ZennXbumb\n➖➖➖➖➖➖➖➖➖➖",
             buttons=[
                 [
                     custom.Button.url(
