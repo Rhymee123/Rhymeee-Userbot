@@ -64,7 +64,7 @@ async def inline_handler(event):
                 [
                     custom.Button.url(
                         "ɢʀᴏᴜᴘ",
-                        "https://t.me/cari_kawanindonesia"),
+                        "https://https://t.me/ctg_id1"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
                         "https://github.com/troxydrake/Dok-Userbot"),
@@ -106,8 +106,8 @@ async def inline_handler(event):
         )
     else:
         result = builder.article(
-            title="✨ ᴅᴏᴋᴛᴇꝛ-ᴜsᴇʀʙᴏᴛ ✨",
-            description="Dok - Userbot | Telethon",
+            title="✨ Rhymeee-ᴜsᴇʀʙᴏᴛ ✨",
+            description="Rhymeee - Userbot | Telethon",
             url="https://t.me/ZennXbumb",
             thumb=InputWebDocument(
                 var.INLINE_PIC,
@@ -119,10 +119,10 @@ async def inline_handler(event):
                 [
                     custom.Button.url(
                         "ɢʀᴏᴜᴘ",
-                        "https://t.me/cari_kawanindonesia"),
+                        "https://t.me/ctg_id1"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
-                        "https://github.com/troxydrake/Dok-Userbot"),
+                        "https://github.com/troxydrake/Rhymeee-Userbot"),
                 ],
             ],
             link_preview=False,
