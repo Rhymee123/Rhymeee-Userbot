@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 # ReCode by @Rhymee4Peacee
-# FROM Rhymeee-Userbot <https://github.com/troxydrake/Rhymeee-Userbot>
+# FROM Rhymeee-Userbot <https://github.com/Rhymee123/Rhymeee-Userbot>
 
 
 import time
