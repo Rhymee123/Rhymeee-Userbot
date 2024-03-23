@@ -3,8 +3,8 @@
 # Licensed under the Raphielscape Public License, Version 1.d (the "License");
 # you may not use this file except in compliance with the License.
 #
-# ReCode by @N0TH4VEUSN
-# FROM Dok-Userbot <https://github.com/troxydrake/Dok-Userbot>
+# ReCode by @Rhymee4Peacee
+# FROM Rhymeee-Userbot <https://github.com/troxydrake/Rhymeee-Userbot>
 
 
 import time
@@ -62,7 +62,7 @@ async def _(ping):
     sleep(4)
     await Ayiin.edit(
         f"""
-** ʌ̸sɪsᴛʌ̸ɴᴛ ᴅᴏᴋᴛᴇꝛ **
+** ʌ̸sɪsᴛʌ̸ɴᴛ Rhymeee **
 
 ➻ 🏓 **ᴘɪɴɢ :** `{duration}ms`
 ➻ ⏳ **ᴜᴘᴛɪᴍᴇ :** `{uptime}`
