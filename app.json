@@ -1,9 +1,9 @@
 {
-  "name": "⋆ Dokter-Userbot ⋆",
-  "description": "[Dokter-Userbot] Userbot Hanya Untuk Bersenang - Senang",
+  "name": "⋆ Rhymeee-Userbot ⋆",
+  "description": "[Rhymeee-Userbot] Userbot Hanya Untuk Bersenang - Senang",
   "logo": "https://telegra.ph/file/3503f31a85ef98b2d5ee0.jpg",
-  "keywords": ["telegram", "userbot", "Dokter-Userbot", "modular", "python"],
-  "repository": "https://github.com/troxydrake/Dok-Userbot",
+  "keywords": ["telegram", "userbot", "Rhymeee-Userbot", "modular", "python"],
+  "repository": "https://github.com/troxydrake/Rhymeee-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
