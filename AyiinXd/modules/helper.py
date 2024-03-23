@@ -14,10 +14,10 @@ async def usit(event):
         event,
         f"""
 **Hai {me.first_name} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `{cmd}help` Atau Bisa Minta Bantuan Ke:
-⍟ **Group Support :** [Dokter Support](t.me/cari_kawanindonesia)
-⍟ **Channel Bee :** [Dokter Support](t.me/ZennXbumb)
-⍟ **Owner Repo :** [Dok](t.me/N0TH4VEUSN)
-⍟ **Repo :** [Dok-Userbot](https://github.com/troxydrake/Dok-Userbot)
+⍟ **Group Support :** [Rhymeee Support](https://t.me/ctg_id1)
+⍟ **Channel Bee :** [Rhymeee Support](t.me/Rhymee4Peacee)
+⍟ **Owner Repo :** [Rhymeee](t.me/Rhymee4Peacee)
+⍟ **Repo :** [Rhymeee-Userbot](https://github.com/Rhymee123/Rhymeee-Userbot)
 """
     )
 
