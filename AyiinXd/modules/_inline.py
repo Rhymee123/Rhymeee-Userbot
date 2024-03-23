@@ -59,7 +59,7 @@ async def inline_handler(event):
                 0,
                 "image/jpeg",
                 []),
-            text="**Rhymeee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [@Rhymee4Peacee](https://t.me/ZennXbumb)\n✧ **sᴜᴘᴘᴏʀᴛ :** @ctg_id1\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Rhymeee-Userbot](https://github.com/troxydrake/Rhymeee-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+            text="**Rhymeee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧  **ʀᴇᴘᴏ :** [@Rhymee4Peacee](https://t.me/RhymeeinPeacee)\n✧ **sᴜᴘᴘᴏʀᴛ :** @ctg_id1\n✧ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Rhymeee-Userbot](https://github.com/Rhymee123/Rhymeee-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
             buttons=[
                 [
                     custom.Button.url(
@@ -67,7 +67,7 @@ async def inline_handler(event):
                         "https://https://t.me/ctg_id1"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
-                        "https://github.com/troxydrake/Rhymeee-Userbot"),
+                        "https://github.com/Rhymee123/Rhymeee-Userbot"),
                 ],
             ],
             link_preview=False,
@@ -108,13 +108,13 @@ async def inline_handler(event):
         result = builder.article(
             title="✨ Rhymeee-ᴜsᴇʀʙᴏᴛ ✨",
             description="Rhymeee - Userbot | Telethon",
-            url="https://t.me/ZennXbumb",
+            url="https://t.me/RhymeeinPeacee",
             thumb=InputWebDocument(
                 var.INLINE_PIC,
                 0,
                 "image/jpeg",
                 []),
-            text=f"**Rhymeee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {var.BOT_USERNAME}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @ZennXbumb\n➖➖➖➖➖➖➖➖➖➖",
+            text=f"**Rhymeee-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✧ **ᴏᴡɴᴇʀ :** [{user.first_name}](tg://user?id={user.id})\n✧ **ᴀssɪsᴛᴀɴᴛ:** {var.BOT_USERNAME}\n➖➖➖➖➖➖➖➖➖➖\n**ᴜᴘᴅᴀᴛᴇs :** @RhymeeinPeacee\n➖➖➖➖➖➖➖➖➖➖",
             buttons=[
                 [
                     custom.Button.url(
@@ -122,7 +122,7 @@ async def inline_handler(event):
                         "https://t.me/ctg_id1"),
                     custom.Button.url(
                         "ʀᴇᴘᴏ",
-                        "https://github.com/troxydrake/Rhymeee-Userbot"),
+                        "https://github.com/Rhymee123/Rhymeee-Userbot"),
                 ],
             ],
             link_preview=False,
