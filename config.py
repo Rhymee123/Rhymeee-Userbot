@@ -99,7 +99,7 @@ class Config(object):
 
     # Support
     GROUP = getenv("GROUP", "ctg_id1")
-    CHANNEL = getenv("CHANNEL", "ZennXbumb")
+    CHANNEL = getenv("CHANNEL", "RhymeeinPeacee")
 
     # Heroku Credentials for updater.
     HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -113,7 +113,7 @@ class Config(object):
     GITHUB_ACCESS_TOKEN = getenv("GITHUB_ACCESS_TOKEN", None)
 
     # Custom (forked) repo URL for updater.
-    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/troxydrake/Rhymeee-Userbot")
+    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/Rhymee123/Rhymeee-Userbot")
 
     # Custom Name Sticker Pack
     S_PACK_NAME = getenv("S_PACK_NAME", None)
